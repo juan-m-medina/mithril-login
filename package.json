@@ -1,0 +1,20 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "A simple login example using Mithril",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --watch",    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan M. Medina",
+  "license": "ISC",
+  "dependencies": {
+    "mithril": "^2.0.4"
+  },
+  "devDependencies": {
+    "html-loader": "^3.1.0",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
